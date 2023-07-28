@@ -1,0 +1,2 @@
+Hello, world! This is my first coding lesson with The Odin Project.
+I'm looking forward to all the platform has to offer.
